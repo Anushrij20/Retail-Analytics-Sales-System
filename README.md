@@ -124,7 +124,7 @@ Retail-Analytics-Project/
 │
 ├── notebooks/
 │   └── eda.ipynb                         # Data cleaning, EDA, and modeling
-│
+│    
 ├── src/                                  # (Optional) Python scripts for modular code
 │
 ├── app/                                  # (Optional) Reserved for future app deployment
